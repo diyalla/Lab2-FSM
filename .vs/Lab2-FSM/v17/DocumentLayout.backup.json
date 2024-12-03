@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|e:\\unityprojects\\comp396_labs\\lab2-fsm\\assets\\guardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|solutionrelative:assets\\guardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|e:\\unityprojects\\comp396_labs\\lab2-fsm\\assets\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|solutionrelative:assets\\chasestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\assets\\reststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|solutionrelative:assets\\reststate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\assets\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|solutionrelative:assets\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\assets\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|solutionrelative:assets\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\assets\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|solutionrelative:assets\\fsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\assets\\fleetohqstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D16501D-23B2-1A93-A620-1F5A0EF15B72}|Assembly-CSharp.csproj|solutionrelative:assets\\fleetohqstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuardController.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\GuardController.cs",
+              "RelativeDocumentMoniker": "Assets\\GuardController.cs",
+              "ToolTip": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\GuardController.cs",
+              "RelativeToolTip": "Assets\\GuardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:41:27.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestState.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\RestState.cs",
+              "RelativeDocumentMoniker": "Assets\\RestState.cs",
+              "ToolTip": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\RestState.cs",
+              "RelativeToolTip": "Assets\\RestState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:40:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FleeToHQState.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\FleeToHQState.cs",
+              "RelativeDocumentMoniker": "Assets\\FleeToHQState.cs",
+              "ToolTip": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\FleeToHQState.cs",
+              "RelativeToolTip": "Assets\\FleeToHQState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:36:40.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FSM.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\FSM.cs",
+              "RelativeDocumentMoniker": "Assets\\FSM.cs",
+              "ToolTip": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\FSM.cs",
+              "RelativeToolTip": "Assets\\FSM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:35:23.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChaseState.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\ChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\ChaseState.cs",
+              "ToolTip": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\ChaseState.cs",
+              "RelativeToolTip": "Assets\\ChaseState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:34:28.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\PatrolState.cs",
+              "ToolTip": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\PatrolState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:33:49.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "State.cs",
+              "DocumentMoniker": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\State.cs",
+              "RelativeDocumentMoniker": "Assets\\State.cs",
+              "ToolTip": "E:\\UnityProjects\\COMP396_Labs\\Lab2-FSM\\Assets\\State.cs",
+              "RelativeToolTip": "Assets\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:32:35.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
